@@ -1,0 +1,930 @@
+1573842550569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lqsaZ3lPTZfI"
+*** You are running in headless mode.
+1573842573438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573842573526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573842573526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573842573526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573842590480	Marionette	INFO	Listening on port 45553
+1573842590508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573842836728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h3czZUYobU1R"
+1573842839727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573842839727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573842839727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573842839727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573842847294	Marionette	INFO	Listening on port 42847
+1573842847417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.statcdn.com/static/js/slick/slick.min.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://www.statista.com/dist/js/main.js?241aea118caaacf38c417f04d2276ff9, line 1: TypeError: t is undefined
+JavaScript error: https://www.statista.com/dist/js/login.js?241aea118caaacf38c417f04d2276ff9, line 1: ReferenceError: $ is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+[Parent 15883, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573843233631	Marionette	INFO	Stopped listening on port 42847
+1573843246588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0JTMEViUARNY"
+1573843248410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573843248411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573843248411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573843248411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573843253402	Marionette	INFO	Listening on port 35689
+1573843253509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573844601388	Marionette	INFO	Stopped listening on port 35689
+1573844615289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PbpcbveusN10"
+1573844620999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573844621000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573844621000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573844621000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573844630736	Marionette	INFO	Listening on port 41085
+1573844630767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573844678096	Marionette	INFO	Stopped listening on port 41085
+1573844715487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I5OTvGKmTGED"
+1573844718313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573844718313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573844718313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573844718314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573844723579	Marionette	INFO	Listening on port 39973
+1573844723631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1573845013719	Marionette	INFO	Stopped listening on port 39973
+1573845217945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SD9jUJEKekwR"
+1573845220144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573845220144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573845220145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573845220145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573845224740	Marionette	INFO	Listening on port 34921
+1573845224795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573845957597	Marionette	INFO	Stopped listening on port 34921
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573846185478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pps3DleElfau"
+*** You are running in headless mode.
+1573846187215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573846187215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573846187216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573846187216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573846191819	Marionette	INFO	Listening on port 44871
+1573846191917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573846631177	Marionette	INFO	Stopped listening on port 44871
+[Parent 20052, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573846866244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a9qM3HUf8Tz2"
+*** You are running in headless mode.
+1573846868770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573846868771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573846868771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573846868771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573846873620	Marionette	INFO	Listening on port 42385
+1573846873738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573848032415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4iewPx2Ri1yL"
+*** You are running in headless mode.
+1573848034261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573848034262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573848034262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573848034263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573848042712	Marionette	INFO	Listening on port 36425
+1573848042764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573848186766	Marionette	INFO	Stopped listening on port 36425
+[Child 21981, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573848233743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xr5MRcV7K2mZ"
+*** You are running in headless mode.
+1573848238802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573848238802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573848238802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573848238803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573848246023	Marionette	INFO	Listening on port 43315
+1573848246095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript error: https://api.userlike.com/api/chat/button/check/?customer_id=7637&chat_widget_id=45418&callback=userlike.userlikeCallbackButtonCheck, line 1: SyntaxError: expected expression, got '<'
+1573848497813	Marionette	INFO	Stopped listening on port 43315
+[Parent 22232, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573848503018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YSNn39ng92bj"
+*** You are running in headless mode.
+1573848506489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573848506489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573848506490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573848506490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573848513354	Marionette	INFO	Listening on port 39143
+1573848513481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+1573848673326	Marionette	INFO	Stopped listening on port 39143
+[Parent 22614, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573848677787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oy1mSXsE2KfX"
+*** You are running in headless mode.
+1573848680730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573848680731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573848680731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573848680731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573848687017	Marionette	INFO	Listening on port 38483
+1573848687035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2006.min.js, line 1: unreachable code after return statement
+JavaScript error: https://api.userlike.com/api/chat/button/check/?customer_id=7637&chat_widget_id=45418&callback=userlike.userlikeCallbackButtonCheck, line 1: SyntaxError: expected expression, got '<'
+1573849074780	Marionette	INFO	Stopped listening on port 38483
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1573849082966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EGALpcjV756B"
+*** You are running in headless mode.
+1573849090095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849090095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849090095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849090095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849097949	Marionette	INFO	Listening on port 42805
+1573849098062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573849452836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pn7n7aRs7PN5"
+*** You are running in headless mode.
+1573849454398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849454398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849454399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849454399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849458952	Marionette	INFO	Listening on port 42157
+1573849458977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573849501938	Marionette	INFO	Stopped listening on port 42157
+1573849511552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.patD6ULrFww0"
+*** You are running in headless mode.
+1573849515765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849515765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849515766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849515766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849520334	Marionette	INFO	Listening on port 35559
+1573849520436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573849579992	Marionette	INFO	Stopped listening on port 35559
+1573849593730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M6H4ZzudDkfl"
+*** You are running in headless mode.
+1573849595044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849595044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849595045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849595045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849601109	Marionette	INFO	Listening on port 37387
+1573849601158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573849626754	Marionette	INFO	Stopped listening on port 37387
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573849646114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hd4pxgKXFYCX"
+*** You are running in headless mode.
+1573849647422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849647422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849647422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849647423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849652411	Marionette	INFO	Listening on port 36803
+1573849652444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573849677469	Marionette	INFO	Stopped listening on port 36803
+1573849689436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8qfhembhpQpS"
+*** You are running in headless mode.
+1573849691005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849691005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849691005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849691006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849697506	Marionette	INFO	Listening on port 41827
+1573849697600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573849729582	Marionette	INFO	Stopped listening on port 41827
+1573849742941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r1426rdFH3sx"
+*** You are running in headless mode.
+1573849750362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849750363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849750364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849750364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849761076	Marionette	INFO	Listening on port 38447
+1573849761100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573849816497	Marionette	INFO	Stopped listening on port 38447
+[Child 25907, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 25907, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573849882668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hJm5mKcHURSc"
+*** You are running in headless mode.
+1573849888388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849888388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849888389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849888389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849902745	Marionette	INFO	Listening on port 43225
+1573849902807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573849937287	Marionette	INFO	Stopped listening on port 43225
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573849972148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3mSfMG0sIdfz"
+*** You are running in headless mode.
+1573849986354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573849986355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573849986355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573849986356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573849997821	Marionette	INFO	Listening on port 34767
+1573849997930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850025210	Marionette	INFO	Stopped listening on port 34767
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573850043333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B49c8fHsdfe2"
+*** You are running in headless mode.
+1573850047357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850047357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850047358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850047359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850054768	Marionette	INFO	Listening on port 34825
+1573850054836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850079054	Marionette	INFO	Stopped listening on port 34825
+1573850091053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EFhvsSVDZvHo"
+*** You are running in headless mode.
+1573850092515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850092515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850092516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850092516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850098660	Marionette	INFO	Listening on port 40395
+1573850098684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850123505	Marionette	INFO	Stopped listening on port 40395
+1573850132654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UF5xZwUl6AnE"
+*** You are running in headless mode.
+1573850133686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850133687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850133687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850133687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850138361	Marionette	INFO	Listening on port 40703
+1573850138382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850168092	Marionette	INFO	Stopped listening on port 40703
+1573850181645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iwnNOUf4JTmI"
+*** You are running in headless mode.
+1573850182643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850182644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850182644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850182645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850187224	Marionette	INFO	Listening on port 39863
+1573850187279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850225544	Marionette	INFO	Stopped listening on port 39863
+1573850236221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RGQpvMzsKhPr"
+*** You are running in headless mode.
+1573850239043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850239044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850239044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850239044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850246890	Marionette	INFO	Listening on port 33445
+1573850246903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850272175	Marionette	INFO	Stopped listening on port 33445
+1573850281535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FaPB1yFAebfH"
+*** You are running in headless mode.
+1573850284399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850284400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850284400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850284400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850289733	Marionette	INFO	Listening on port 40559
+1573850289797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850315806	Marionette	INFO	Stopped listening on port 40559
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573850332343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hsg7zNffmXyR"
+*** You are running in headless mode.
+1573850334480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850334481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850334481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850334482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850339722	Marionette	INFO	Listening on port 38443
+1573850339853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850367977	Marionette	INFO	Stopped listening on port 38443
+1573850375396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5ueWKMni94cJ"
+*** You are running in headless mode.
+1573850376816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850376816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850376817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850376817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850381862	Marionette	INFO	Listening on port 39589
+1573850381926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850405279	Marionette	INFO	Stopped listening on port 39589
+1573850414663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GgyABliyA60x"
+*** You are running in headless mode.
+1573850417453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850417454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850417454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850417454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850422257	Marionette	INFO	Listening on port 45613
+1573850422334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850446399	Marionette	INFO	Stopped listening on port 45613
+1573850457950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Yqi6M2FcccSB"
+*** You are running in headless mode.
+1573850459169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850459170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850459170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850459171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850465440	Marionette	INFO	Listening on port 40289
+1573850465480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850490418	Marionette	INFO	Stopped listening on port 40289
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573850514587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ru5QAJc5pgFF"
+*** You are running in headless mode.
+1573850518670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850518671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850518672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850518672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850527850	Marionette	INFO	Listening on port 43009
+1573850527892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573850551662	Marionette	INFO	Stopped listening on port 43009
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573850575385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jJCMhpE9PWkK"
+*** You are running in headless mode.
+1573850579716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850579717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850579717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850579717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850586746	Marionette	INFO	Listening on port 43499
+1573850586845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850611594	Marionette	INFO	Stopped listening on port 43499
+1573850621915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EjO328bYEwbx"
+*** You are running in headless mode.
+1573850622714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850622715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850622715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850622715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850627685	Marionette	INFO	Listening on port 43033
+1573850627737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850653248	Marionette	INFO	Stopped listening on port 43033
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573850672989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yGAxAXkMW9Bd"
+*** You are running in headless mode.
+1573850673799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850673799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850673800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850673800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850678110	Marionette	INFO	Listening on port 40327
+1573850678207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850701400	Marionette	INFO	Stopped listening on port 40327
+1573850710709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FomUS2lLgMF7"
+*** You are running in headless mode.
+1573850711827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850711827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850711828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850711828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850716547	Marionette	INFO	Listening on port 45269
+1573850716637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850740485	Marionette	INFO	Stopped listening on port 45269
+1573850753937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.amw6RobtKHDR"
+*** You are running in headless mode.
+1573850755754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850755754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850755755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850755755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850762281	Marionette	INFO	Listening on port 44565
+1573850762374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850786305	Marionette	INFO	Stopped listening on port 44565
+1573850797180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dVlw4NNflNzB"
+*** You are running in headless mode.
+1573850799428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850799428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850799429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850799429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850803932	Marionette	INFO	Listening on port 40981
+1573850804021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850829228	Marionette	INFO	Stopped listening on port 40981
+1573850841704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UODxnammqYxH"
+*** You are running in headless mode.
+1573850844438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850844439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850844439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850844440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850849727	Marionette	INFO	Listening on port 40941
+1573850849770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850881712	Marionette	INFO	Stopped listening on port 40941
+1573850889748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HkFxievPJjOw"
+*** You are running in headless mode.
+1573850892623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850892623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850892624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850892624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850897519	Marionette	INFO	Listening on port 38879
+1573850897594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850929776	Marionette	INFO	Stopped listening on port 38879
+1573850942886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rcustYjIYTNS"
+*** You are running in headless mode.
+1573850943737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850943738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850943738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850943738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850947999	Marionette	INFO	Listening on port 43161
+1573850948014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573850971087	Marionette	INFO	Stopped listening on port 43161
+1573850981606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oIKGFlHGXM7C"
+*** You are running in headless mode.
+1573850982461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573850982461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573850982462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573850982462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573850986864	Marionette	INFO	Listening on port 40165
+1573850986929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851012520	Marionette	INFO	Stopped listening on port 40165
+1573851023445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YE3YufJqhyQn"
+*** You are running in headless mode.
+1573851024352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851024352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851024352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851024353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851029158	Marionette	INFO	Listening on port 38365
+1573851029172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851053164	Marionette	INFO	Stopped listening on port 38365
+1573851066867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qe30aqCeJlVz"
+*** You are running in headless mode.
+1573851068254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851068255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851068255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851068255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851074203	Marionette	INFO	Listening on port 35479
+1573851074290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851099461	Marionette	INFO	Stopped listening on port 35479
+1573851109391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SF0RhCd5kMjr"
+*** You are running in headless mode.
+1573851110197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851110197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851110198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851110198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851114380	Marionette	INFO	Listening on port 37779
+1573851114414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851140049	Marionette	INFO	Stopped listening on port 37779
+1573851150878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X3Z7A5dwx27T"
+*** You are running in headless mode.
+1573851151809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851151809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851151810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851151810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851156280	Marionette	INFO	Listening on port 45741
+1573851156306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851181760	Marionette	INFO	Stopped listening on port 45741
+1573851190078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6UmVO9uZiiWQ"
+*** You are running in headless mode.
+1573851190912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851190912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851190913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851190913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851195073	Marionette	INFO	Listening on port 40077
+1573851195096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851218597	Marionette	INFO	Stopped listening on port 40077
+1573851228616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t9kcNyG6e1mz"
+*** You are running in headless mode.
+1573851229458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851229459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851229459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851229459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851233833	Marionette	INFO	Listening on port 37431
+1573851233934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851267607	Marionette	INFO	Stopped listening on port 37431
+1573851276426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SR6DJn990ZI9"
+*** You are running in headless mode.
+1573851277340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851277341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851277341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851277341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851281540	Marionette	INFO	Listening on port 39183
+1573851281556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851315492	Marionette	INFO	Stopped listening on port 39183
+1573851328232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JkmbEKJJJmnS"
+*** You are running in headless mode.
+1573851329625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851329625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851329626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851329626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851333913	Marionette	INFO	Listening on port 35669
+1573851333956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851357270	Marionette	INFO	Stopped listening on port 35669
+1573851366642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J2WY7DuZOOmM"
+*** You are running in headless mode.
+1573851368431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851368431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851368431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851368432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851373197	Marionette	INFO	Listening on port 46285
+1573851373285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851409099	Marionette	INFO	Stopped listening on port 46285
+1573851416327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OdJM6XkvQWgl"
+*** You are running in headless mode.
+1573851417352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851417352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851417353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851417353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851422102	Marionette	INFO	Listening on port 35349
+1573851422152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851448889	Marionette	INFO	Stopped listening on port 35349
+1573851457011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S9Q66BAPSof9"
+*** You are running in headless mode.
+1573851457859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851457859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851457860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851457860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851462268	Marionette	INFO	Listening on port 34647
+1573851462333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851487485	Marionette	INFO	Stopped listening on port 34647
+1573851499613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zMgbdnBKHENP"
+*** You are running in headless mode.
+1573851500478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851500478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851500479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851500479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851504883	Marionette	INFO	Listening on port 36171
+1573851504930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851530025	Marionette	INFO	Stopped listening on port 36171
+1573851539069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LR12Dp4buYUy"
+*** You are running in headless mode.
+1573851539934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851539934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851539935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851539935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851544309	Marionette	INFO	Listening on port 35377
+1573851544386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851568506	Marionette	INFO	Stopped listening on port 35377
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573851590515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GWCeukhAZZWE"
+*** You are running in headless mode.
+1573851592802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851592802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851592803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851592803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851600114	Marionette	INFO	Listening on port 44051
+1573851600154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851620738	Marionette	INFO	Stopped listening on port 44051
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573851647564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DrztIvG6yVQB"
+*** You are running in headless mode.
+1573851648824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851648824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851648824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851648825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851653637	Marionette	INFO	Listening on port 40535
+1573851653702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851677294	Marionette	INFO	Stopped listening on port 40535
+1573851687793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3C6h1f2cYAQT"
+*** You are running in headless mode.
+1573851689718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851689718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851689719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851689719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851695873	Marionette	INFO	Listening on port 39803
+1573851695944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851724193	Marionette	INFO	Stopped listening on port 39803
+1573851733810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6X1aQJc2DeRi"
+*** You are running in headless mode.
+1573851734695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851734695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851734696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851734696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851739158	Marionette	INFO	Listening on port 36283
+1573851739234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851762519	Marionette	INFO	Stopped listening on port 36283
+1573851773036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aatPnNiZqkBk"
+*** You are running in headless mode.
+1573851773889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851773889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851773889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851773889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851778169	Marionette	INFO	Listening on port 44931
+1573851778256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851802653	Marionette	INFO	Stopped listening on port 44931
+1573851814363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SCPSGK2U7YqA"
+*** You are running in headless mode.
+1573851815198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851815198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851815199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851815199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851819715	Marionette	INFO	Listening on port 45817
+1573851819781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851842758	Marionette	INFO	Stopped listening on port 45817
+1573851852889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z0ATUZrh1qXH"
+*** You are running in headless mode.
+1573851853786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851853787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851853787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851853788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851858267	Marionette	INFO	Listening on port 38567
+1573851858310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851882794	Marionette	INFO	Stopped listening on port 38567
+1573851892247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s7OpmvBk9TVZ"
+*** You are running in headless mode.
+1573851893166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851893166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851893167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851893167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851897597	Marionette	INFO	Listening on port 41739
+1573851897669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851921518	Marionette	INFO	Stopped listening on port 41739
+1573851931141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PDnXGHX6xGuC"
+*** You are running in headless mode.
+1573851931972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851931972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851931972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851931973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851936092	Marionette	INFO	Listening on port 42393
+1573851936157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573851960510	Marionette	INFO	Stopped listening on port 42393
+1573851970730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UfwE7Jexjtmg"
+*** You are running in headless mode.
+1573851971561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573851971562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573851971562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573851971562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573851975719	Marionette	INFO	Listening on port 36127
+1573851975749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852002739	Marionette	INFO	Stopped listening on port 36127
+1573852015169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8FaKrrIhllKH"
+*** You are running in headless mode.
+1573852016019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852016020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852016020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852016020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852020299	Marionette	INFO	Listening on port 36641
+1573852020391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852047171	Marionette	INFO	Stopped listening on port 36641
+1573852055879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jbadrc86ug8g"
+*** You are running in headless mode.
+1573852056737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852056738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852056738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852056738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852061170	Marionette	INFO	Listening on port 45069
+1573852061201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852085609	Marionette	INFO	Stopped listening on port 45069
+1573852094930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e3DHzQeZQ0qP"
+*** You are running in headless mode.
+1573852095851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852095851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852095851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852095851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852100250	Marionette	INFO	Listening on port 43911
+1573852100348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852131292	Marionette	INFO	Stopped listening on port 43911
+1573852139300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.we4zW2ntEfUO"
+*** You are running in headless mode.
+1573852140244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852140244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852140244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852140245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852144618	Marionette	INFO	Listening on port 37361
+1573852144721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852168108	Marionette	INFO	Stopped listening on port 37361
+1573852178831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SPNQTxaSRZVF"
+*** You are running in headless mode.
+1573852179762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852179762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852179763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852179763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852184134	Marionette	INFO	Listening on port 35629
+1573852184160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852204378	Marionette	INFO	Stopped listening on port 35629
+1573852215301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zxzIh4CDYfLJ"
+*** You are running in headless mode.
+1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
