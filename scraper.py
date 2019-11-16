@@ -6,11 +6,15 @@ from lxml.html import fromstring
 import requests
 from urllib.parse import urljoin, urlparse
 import json
+import threading
+import time
 
 from link_crawler import download
 from selenium_auth import get_driver, login
 
-# save cookies to json file
+SLEEP_TIME = 1
+
+# save cookies to json file to prevent multiple log ins
 try:
     with open('cookies') as f_in:
         cookies = json.load(f_in)
@@ -21,17 +25,23 @@ except FileNotFoundError:
     driver.quit()
     with open('cookies', 'w') as f_out:
         json.dump(cookies, f_out)
+except:
+    print('Something went wrong during log in')
+    raise
 
-def scraper(url, html):
+def scraper(url, html, max_threads=10):
     tree = fromstring(html)
     stat_links = tree.xpath('//div[contains(@class,"flex-list")]//ul/li/a/@href')
     domain = '{}://{}'.format(urlparse(url).scheme, urlparse(url).netloc)
     if stat_links:
         stat_links = [urljoin(domain, link) for link in stat_links]
+        stat_links = stat_links[:2]
 
         def process_queue():
-            for stat_url in stat_links:
+            while stat_links:
+                stat_url = stat_links.pop()
                 if 'statistics' in stat_url:
+                    print('# creating folders and downloading files...')
                     dir_path = url[url.find('map'):].split('map')[-1]
                     dir_path = dir_path.split('?')[0]
                     dir_path = './data{}/{}'.format(dir_path, stat_url.rsplit('/',2)[1])
@@ -47,8 +57,9 @@ def scraper(url, html):
                     driver.get(stat_url)
                     # breakpoint()
 
-                    download_btns = driver.find_elements_by_css_selector('#download button.button')
-                    # breakpoint()
+                    download_btns = driver.find_elements_by_css_selector(
+                        'button.statisticDownload')
+                    breakpoint()
 
                     for btn in download_btns:
                         btn.click()
@@ -61,7 +72,7 @@ def scraper(url, html):
             for thread in threads:
                 if not thread.is_alive():
                     threads.remove(thread)
-            while len(threads) < max_threads and crawl_queue:
+            while len(threads) < max_threads and stat_links:
                 thread = threading.Thread(target=process_queue)
                 thread.setDaemon(True)
                 thread.start()

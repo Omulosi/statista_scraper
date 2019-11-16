@@ -3,13 +3,15 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.firefox.options import Options
+# from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
+import chromedriver_binary
 
 LOGIN_URL ='https://www.statista.com/login/'
 LOGIN_USERNAME = 'keith.davey@parallaxgeo.com'
 LOGIN_PASSWORD = 'D3jaULYw7QKZiUxD'
 
-def get_driver(download_dir=None):
+def get_driver2(download_dir=None):
     download_dir = download_dir or './data'
 
     profile = webdriver.FirefoxProfile()
@@ -20,8 +22,26 @@ def get_driver(download_dir=None):
     profile.set_preference("browser.helperApps.neverAsk.saveToDisk",
                            "application/octet-stream,application/vnd.ms-excel,application/pdf")
     options.add_argument("--headless")
-    return webdriver.Firefox(profile, options=options)
+    return webdriver.Chrome(executable_path=r"./chromedriver")
 
+
+def get_driver(download_dir=None):
+    download_dir = download_dir or './data'
+
+    options = Options()
+    options.add_experimental_option("prefs", {
+      "download.default_directory": download_dir,
+      "download.prompt_for_download": False,
+      "download.directory_upgrade": True,
+      "safebrowsing.enabled": True,
+      "plugins.always_open_pdf_externally": True
+    })
+    options.add_argument("--disable-extensions")
+
+    driver = webdriver.Chrome(chrome_options=options)
+    # driver.get("http://www.python.org")
+    # assert "Python" in driver.title
+    return driver
 
 def login(driver):
     print('Loggin in...')

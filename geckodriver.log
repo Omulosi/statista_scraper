@@ -928,3 +928,1322 @@ JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38
 1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
 1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
 1573852216179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852221752	Marionette	INFO	Listening on port 33347
+1573852221828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852241814	Marionette	INFO	Stopped listening on port 33347
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573852263911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ziitq11Dckmt"
+*** You are running in headless mode.
+1573852265967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852265968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852265969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852265969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852272625	Marionette	INFO	Listening on port 43917
+1573852272646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852299483	Marionette	INFO	Stopped listening on port 43917
+1573852311238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w97AgGTF1Egn"
+*** You are running in headless mode.
+1573852312910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852312910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852312911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852312911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852317865	Marionette	INFO	Listening on port 39129
+1573852317878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852341456	Marionette	INFO	Stopped listening on port 39129
+1573852350893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1hGUuiyWxnPr"
+*** You are running in headless mode.
+1573852351844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852351844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852351844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852351845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852356284	Marionette	INFO	Listening on port 37435
+1573852356314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852387851	Marionette	INFO	Stopped listening on port 37435
+1573852398083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l39kKwehvrEP"
+*** You are running in headless mode.
+1573852398936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852398937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852398937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852398937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852403320	Marionette	INFO	Listening on port 45809
+1573852403402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852422483	Marionette	INFO	Stopped listening on port 45809
+1573852431171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8jZEkd2TSG3R"
+*** You are running in headless mode.
+1573852432215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852432215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852432216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852432216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852437414	Marionette	INFO	Listening on port 43353
+1573852437494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852461780	Marionette	INFO	Stopped listening on port 43353
+1573852471404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SVAm8VAkDGxy"
+*** You are running in headless mode.
+1573852472278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852472278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852472279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852472279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852476934	Marionette	INFO	Listening on port 35031
+1573852477025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852509359	Marionette	INFO	Stopped listening on port 35031
+1573852517372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z7V2FRaKqduw"
+*** You are running in headless mode.
+1573852518205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852518206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852518206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852518206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852522443	Marionette	INFO	Listening on port 42845
+1573852522494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852551316	Marionette	INFO	Stopped listening on port 42845
+1573852562536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O7TIPGnlfOEb"
+*** You are running in headless mode.
+1573852563438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852563439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852563439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852563439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852567514	Marionette	INFO	Listening on port 32811
+1573852567574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852602971	Marionette	INFO	Stopped listening on port 32811
+1573852610888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g71nUJonZQRq"
+*** You are running in headless mode.
+1573852611778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852611778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852611779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852611779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852616173	Marionette	INFO	Listening on port 35095
+1573852616214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573852640297	Marionette	INFO	Stopped listening on port 35095
+1573852651525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AMdcKewVxcyj"
+*** You are running in headless mode.
+1573852652370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573852652370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573852652371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573852652371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573852657664	Marionette	INFO	Listening on port 46809
+1573852657756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1573853046537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SKfYKasPIGEv"
+1573853046541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q1EfcP62az3K"
+1573853046543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0cGdnaThDDa4"
+1573853046547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.syDRaMJUX3fc"
+1573853046549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rnrU1ix5MeGs"
+1573853046589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1INmrwH3vDu7"
+1573853046589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.25mLzNGM06sG"
+1573853046589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YhUFqsIIJdVZ"
+1573853046589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C4XVOYZxrqjr"
+1573853046593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gwp1qNoIiIb4"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1573853051921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853051927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853051936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853051950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853051950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853051951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853051952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853051950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853051956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853051960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853052024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853052024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853052026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853052026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853052030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853052031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853052032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853052032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853052284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853052285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853052285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853052286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10140, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10135, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10135, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10135, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10135, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10135, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10135, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10024, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10016, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10016, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10016, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10016, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10016, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10016, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10037, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10037, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10037, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10037, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10037, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10037, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10138, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10039, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10039, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10039, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10039, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10039, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10039, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10141, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10141, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10028, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10141, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10141, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10141, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10035, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10035, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10035, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10141, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Child 10035, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[Child 10035, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10035, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10137, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10136, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10136, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10133, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10133, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10009, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10009, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10009, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10009, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10009, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10009, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10005, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10005, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10005, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10005, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10005, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10038, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10038, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10038, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10038, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10038, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10005, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Child 10134, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 10038, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10139, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10018, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10018, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10018, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10018, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10018, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10018, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10142, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10142, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10142, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10142, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10142, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 10142, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+[Child 10028, Chrome_ChildThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+Exiting due to channel error.
+1573853123864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rGlNkTxmleIX"
+1573853124125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kss3hdJwH9bY"
+1573853124630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SznUMyRZkYcS"
+1573853124710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e2MYHDkLd0qn"
+1573853125348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lB71Ut1QMhkn"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1573853142003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853142004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853142005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853142005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853142018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853142018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853142019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853142019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853142034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853142034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853142035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853142035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853142037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853142038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853142040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853142040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853142052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853142054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853142054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853142055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853169738	Marionette	INFO	Listening on port 46343
+1573853169785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853169788	Marionette	INFO	Listening on port 38789
+1573853169794	Marionette	INFO	Listening on port 46399
+1573853169807	Marionette	INFO	Listening on port 34463
+1573853169827	Marionette	INFO	Listening on port 33585
+1573853169871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853169890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853169912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853169938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573853244759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573853248306	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573853270091	Marionette	INFO	Stopped listening on port 46343
+1573853270432	Marionette	INFO	Stopped listening on port 38789
+1573853270518	Marionette	INFO	Stopped listening on port 34463
+1573853274152	Marionette	INFO	Stopped listening on port 33585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573853275938	Marionette	INFO	Stopped listening on port 46399
+[Parent 10229, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10241, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10245, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10229, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10245, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10241, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1573853351078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l5hapLG0q6Vs"
+1573853351278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6YdEXS6IDLUa"
+1573853351373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lseq50blgYcV"
+1573853351374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AvpTUxc4HuxB"
+1573853351375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bp1RICiKxyNk"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1573853365530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853365535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853365536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853365539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853365541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853365545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853365546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853365546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853365544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853365547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853365548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853365548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853365548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853365549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853365549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853365550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853365565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853365566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853365566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853365566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853384036	Marionette	INFO	Listening on port 41083
+1573853384038	Marionette	INFO	Listening on port 33507
+1573853384046	Marionette	INFO	Listening on port 33535
+1573853384072	Marionette	INFO	Listening on port 41535
+1573853384098	Marionette	INFO	Listening on port 37291
+1573853384108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853384129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853384131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853384134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853384201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853437887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1573853437896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853452116	Marionette	INFO	Stopped listening on port 41083
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA40001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+1573853460304	Marionette	INFO	Stopped listening on port 33507
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1573853463145	Marionette	INFO	Stopped listening on port 37291
+1573853464368	Marionette	INFO	Stopped listening on port 41535
+1573853472090	Marionette	INFO	Stopped listening on port 33535
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853517527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HLVFV4jAqKPO"
+1573853518061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FsG3FqjX2e2d"
+1573853518061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.45SZaKLkc47P"
+1573853518246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r9tgKXMhmHBu"
+1573853518249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.koMs8GO3QPfH"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1573853534500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853534501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853534501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853534502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853534511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853534512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853534512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853534513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853534521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853534521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853534522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853534522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853534530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853534531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853534531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853534532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853534533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853534534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853534535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853534535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853564782	Marionette	INFO	Listening on port 33623
+1573853564783	Marionette	INFO	Listening on port 45937
+1573853564803	Marionette	INFO	Listening on port 37347
+1573853564810	Marionette	INFO	Listening on port 43575
+1573853564815	Marionette	INFO	Listening on port 36793
+1573853564869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853564881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853564883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853564897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853564900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853644586	Marionette	INFO	Stopped listening on port 43575
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853647513	Marionette	INFO	Stopped listening on port 45937
+1573853647753	Marionette	INFO	Stopped listening on port 36793
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853674116	Marionette	INFO	Stopped listening on port 37347
+1573853683263	Marionette	INFO	Stopped listening on port 33623
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853693829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HlTsYsDWBcUa"
+*** You are running in headless mode.
+1573853703242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YZHkQASNbuRf"
+*** You are running in headless mode.
+1573853703989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2aaXVITTAGZ3"
+*** You are running in headless mode.
+1573853706679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853706680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853706681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853706681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853706689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853706690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853706690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853706691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853706722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853706722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853706723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853706723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853709550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kWJAjrJyK7n0"
+*** You are running in headless mode.
+1573853712796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853712796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853712797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853712797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853718418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C6uhtbWU7Uh8"
+*** You are running in headless mode.
+1573853722160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853722160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853722161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853722161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853724080	Marionette	INFO	Listening on port 42309
+1573853724199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853725184	Marionette	INFO	Listening on port 42039
+1573853725236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853725770	Marionette	INFO	Listening on port 46651
+1573853725827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853726404	Marionette	INFO	Listening on port 35067
+1573853726495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853737520	Marionette	INFO	Listening on port 41821
+1573853737614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853781937	Marionette	INFO	Stopped listening on port 42309
+1573853782752	Marionette	INFO	Stopped listening on port 42039
+1573853783152	Marionette	INFO	Stopped listening on port 46651
+1573853785929	Marionette	INFO	Stopped listening on port 35067
+1573853792738	Marionette	INFO	Stopped listening on port 41821
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853799972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XV4QjUz6pe2t"
+*** You are running in headless mode.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853804911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RZRYvZvvME03"
+*** You are running in headless mode.
+1573853807461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853807462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853807462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853807462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853808118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OYiN9JHRyKaR"
+*** You are running in headless mode.
+1573853808847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853808847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853808847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853808848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853811952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853811952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853811953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853811953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853820619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wuZHcWhTT7wG"
+*** You are running in headless mode.
+1573853823632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853823633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853823634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853823634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853824304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QrSUOxq3M3aP"
+*** You are running in headless mode.
+1573853826737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853826738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853826739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853826745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853828047	Marionette	INFO	Listening on port 46753
+1573853828125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853828576	Marionette	INFO	Listening on port 43559
+1573853828601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853828608	Marionette	INFO	Listening on port 42083
+1573853828702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853837254	Marionette	INFO	Listening on port 34797
+1573853837473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853841578	Marionette	INFO	Listening on port 36059
+1573853841683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853863651	Marionette	INFO	Stopped listening on port 43559
+1573853872231	Marionette	INFO	Stopped listening on port 36059
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":1824,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:1824","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:872","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3508","chrome://marionette/content/server.js:despatch:305","chrome://marionette/content/server.js:execute:275","chrome://marionette/content/server.js:onPacket/<:248","chrome://marionette/content/server.js:onPacket:249","chrome://marionette/content/transport.js:_onJSONObjectReady/<:501"]}] Barrier: quit-application-granted
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15153, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 15153, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+[Parent 15153, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 23
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 15533, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 15533, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 15533, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853887781	Marionette	INFO	Stopped listening on port 46753
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Child 15493, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573853893395	Marionette	INFO	Stopped listening on port 42083
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573853900401	Marionette	INFO	Stopped listening on port 34797
+1573853904585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OP8mgqKo60eb"
+*** You are running in headless mode.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853917781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853917781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853917781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853917782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853920378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IIF4tWYqnvap"
+*** You are running in headless mode.
+1573853921183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5BzaW8girX3p"
+*** You are running in headless mode.
+1573853921610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VbGdvbXMAFhK"
+*** You are running in headless mode.
+1573853922083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853922084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853922084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853922084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853923647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853923648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853923648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853923648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853924702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853924702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853924702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853924703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853928398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EjafxJ37sU87"
+*** You are running in headless mode.
+1573853931890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853931891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853931891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853931892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573853931900	Marionette	INFO	Listening on port 41321
+1573853932025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853933949	Marionette	INFO	Listening on port 33255
+1573853934033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853934432	Marionette	INFO	Listening on port 40669
+1573853934474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853936121	Marionette	INFO	Listening on port 38315
+1573853936173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573853944399	Marionette	INFO	Listening on port 46851
+1573853944481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573853970257	Marionette	INFO	Stopped listening on port 41321
+1573853974003	Marionette	INFO	Stopped listening on port 38315
+1573853975060	Marionette	INFO	Stopped listening on port 33255
+1573853976047	Marionette	INFO	Stopped listening on port 40669
+1573853985057	Marionette	INFO	Stopped listening on port 46851
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573853992053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WTxfxBE7W910"
+*** You are running in headless mode.
+1573853995962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573853995962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573853995963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573853995963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854000162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I31MRse4cg1C"
+*** You are running in headless mode.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854002553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854002553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854002553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854002553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854004884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nf4sMVE9niZ9"
+*** You are running in headless mode.
+1573854006702	Marionette	INFO	Listening on port 45043
+1573854006751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854007777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854007777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854007778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854007778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854012367	Marionette	INFO	Listening on port 43849
+1573854012422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854013127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9qSfAr7PvPp1"
+*** You are running in headless mode.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573854015794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854015799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854015799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854015800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854018775	Marionette	INFO	Listening on port 43821
+1573854018862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573854022632	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854025052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1pahq5n7lovo"
+*** You are running in headless mode.
+1573854025435	Marionette	INFO	Stopped listening on port 45043
+1573854027481	Marionette	INFO	Listening on port 40431
+1573854027515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854028363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854028364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854028365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854028365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573854038366	Marionette	INFO	Stopped listening on port 43849
+1573854040215	Marionette	INFO	Listening on port 42509
+1573854040239	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573854049403	Marionette	INFO	Stopped listening on port 43821
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to stat
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854055038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Iddbci5fgcbt"
+*** You are running in headless mode.
+1573854056611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854056612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854056613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854056613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854062191	Marionette	INFO	Stopped listening on port 40431
+1573854064390	Marionette	INFO	Listening on port 45219
+1573854064485	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854064996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BSGQEMSm9YKT"
+*** You are running in headless mode.
+1573854070085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854070086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854070086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854070087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854073433	Marionette	INFO	Stopped listening on port 42509
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854081770	Marionette	INFO	Listening on port 41177
+1573854081848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854082252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3dpB18Zll4X9"
+*** You are running in headless mode.
+1573854085007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854085007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854085008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854085008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854092150	Marionette	INFO	Stopped listening on port 45219
+1573854101871	Marionette	INFO	Listening on port 44553
+1573854101916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854106336	Marionette	INFO	Stopped listening on port 41177
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854107962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HGzOFl3ujmJn"
+*** You are running in headless mode.
+1573854112585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854112585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854112585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854112586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854123686	Marionette	INFO	Listening on port 35263
+1573854123707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854126942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PyYnGQu8ILaK"
+*** You are running in headless mode.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854133136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854133137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854133137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854133137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854138092	Marionette	INFO	Stopped listening on port 44553
+1573854140281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5WHpln8CWizX"
+*** You are running in headless mode.
+1573854143772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854143772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854143773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854143773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854147930	Marionette	INFO	Stopped listening on port 35263
+1573854148328	Marionette	INFO	Listening on port 38313
+1573854148404	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854159279	Marionette	INFO	Listening on port 40565
+1573854159349	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854172129	Marionette	INFO	Stopped listening on port 38313
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+1573854172221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1vy2BD72Lsxq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1573854177065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854177066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854177066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854177066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854184355	Marionette	INFO	Stopped listening on port 40565
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854190080	Marionette	INFO	Listening on port 36041
+1573854190174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854194557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q8lrNgoraq7E"
+*** You are running in headless mode.
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854200067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854200067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854200068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854200068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854208926	Marionette	INFO	Stopped listening on port 36041
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1573854212961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L99vqkJNLid9"
+*** You are running in headless mode.
+1573854215421	Marionette	INFO	Listening on port 37239
+1573854215514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854216422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854216422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854216423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854216423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+1573854223084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W8w4zDG6QRyS"
+*** You are running in headless mode.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854225253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854225254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854225255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854225255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854225432	Marionette	INFO	Listening on port 36373
+1573854225496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854237511	Marionette	INFO	Listening on port 43919
+1573854237560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854238421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ppRgXQZOP0PR"
+*** You are running in headless mode.
+1573854241459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854241459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854241464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854241465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854249677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tF6tTUxv1KgN"
+*** You are running in headless mode.
+1573854250947	Marionette	INFO	Stopped listening on port 36373
+1573854251024	Marionette	INFO	Listening on port 39979
+1573854251102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854251773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854251773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854251774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854251774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854252775	Marionette	INFO	Stopped listening on port 37239
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854262610	Marionette	INFO	Listening on port 37229
+1573854262641	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854266827	Marionette	INFO	Stopped listening on port 43919
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854273495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FWQKgzNfbbd2"
+*** You are running in headless mode.
+1573854276111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854276112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854276112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854276112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 350: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 66: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 350}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 350}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1573854279309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V2SJGJb78JPD"
+*** You are running in headless mode.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1573854282081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854282081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854282081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854282082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854285721	Marionette	INFO	Listening on port 35215
+1573854285750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573854291844	Marionette	INFO	Listening on port 42393
+1573854291862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854302717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VgBxbR1J9hCl"
+*** You are running in headless mode.
+1573854304817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854304819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854304820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854304820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854313341	Marionette	INFO	Listening on port 34063
+1573854313372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2007.min.js, line 1: unreachable code after return statement
+JavaScript error: https://www.statista.com/dist/js/manifest.js?241aea118caaacf38c417f04d2276ff9, line 1: Error: Loading chunk 82 failed.
+1573854331200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jxUa3nrRHReM"
+1573854331200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RsPrIw7CpSl7"
+1573854331200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BvNCYBr8H2nu"
+1573854331201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zJdHqxr3Y3tO"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1573854332232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vCLd9AWgwwTN"
+*** You are running in headless mode.
+1573854335836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854335837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854335837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854335838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854335863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854335864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854335866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854335867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854335939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854335939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854335940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854335940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854336013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854336020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854336021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854336022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854336068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854336069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854336069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854336070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Child 21446, Chrome_ChildThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21483, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 21595, Chrome_ChildThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 21595, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 21595, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21425, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /usr/share/locale/locale.alias
+[Child 21592, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 21592, Chrome_ChildThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 21592, Chrome_ChildThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 21592, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 21592, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 21592, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+Exiting due to channel error.
+[Child 21604, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 21604, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[Child 21497, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 21381, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1573854420829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z7jlO6uqgUk6"
+1573854421044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bAjBQFG9KeE0"
+1573854421044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kO0VbrkHDdjh"
+1573854421045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V5DiOKgdB9It"
+1573854421046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X89VxKylubkC"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1573854437422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854437424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854437426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854437426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854437427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854437427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854437428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854437428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854437441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854437442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854437443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854437443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854437456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854437457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854437457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854437458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573854437464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573854437465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573854437465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573854437466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /usr/share/locale/locale.alias
+[Child 22231, Chrome_ChildThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22231, Chrome_ChildThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22231, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (52): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (49): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 22399, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
