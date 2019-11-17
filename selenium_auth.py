@@ -25,9 +25,12 @@ def get_driver(download_dir=None):
       "plugins.always_open_pdf_externally": True
     })
     options.add_argument("--disable-extensions")
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
 
     driver = webdriver.Chrome(chrome_options=options)
+
+    # prevent bugs due to elements not loading properly in headless mode
+    driver.set_window_size(1440, 900)
     return driver
 
 def login(driver):

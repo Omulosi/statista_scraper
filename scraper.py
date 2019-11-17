@@ -44,9 +44,6 @@ def scraper(url, html):
     if stat_links:
         stat_links = [urljoin(domain, link) for link in stat_links]
 
-        # cleanup
-        stat_links = stat_links[:2]
-
         while stat_links:
             stat_url = stat_links.pop()
             if 'statistics' in stat_url:
@@ -72,6 +69,7 @@ def scraper(url, html):
 
                 download_btns = driver.find_elements_by_css_selector(
                     '#download button.button')
+                print('...saving files')
 
                 for btn in download_btns:
                     try:
@@ -102,8 +100,8 @@ def scraper(url, html):
                 info_metadata = jsonify(info_keys, info_vals) 
 
                 metadata = {**src_metadata, **info_metadata}
-                breakpoint()
                 meta_dir = os.path.join(dir_path, 'metadata.json')
+                print('...saving metadata')
                 with open(meta_dir, 'w') as meta_file:
                     json.dump(metadata, meta_file)
 
