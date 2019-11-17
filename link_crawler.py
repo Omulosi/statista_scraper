@@ -5,48 +5,13 @@ import socket
 
 import requests
 from throttle import Throttle
-import auth
+from helpers import download, get_robots_parser, get_links
 
 socket.setdefaulttimeout(120)
 
-USER_AGENT="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0"
-# session = requests.Session()
-# _, session = auth.login(session=session)
-
-
-def download(url, num_retries=2, user_agent=USER_AGENT, proxies=None):
-    print('Downloading:', url)
-    headers = {'User-Agent': user_agent}
-    try:
-        resp = requests.get(url, headers=headers, proxies=proxies)
-        html = resp.text
-        if resp.status_code >= 400:
-            print('Download error:', resp.text)
-            html = None
-            if num_retries and 500 <= resp.status_code < 600:
-                # recursively retry 5xx HTTP errors
-                return download(url, num_retries - 1)
-    except requests.exceptions.RequestException as e:
-        print('Download error:', e)
-        html = None
-    return html
-
-
-def get_robots_parser(robots_url):
-    " Return the robots parser object using the robots_url "
-    rp = robotparser.RobotFileParser()
-    rp.set_url(robots_url)
-    rp.read()
-    return rp
-
-
-def get_links(html):
-    webpage_regex = re.compile("""<a[^>]+href=["'](.*?)["']""", re.IGNORECASE)
-    return webpage_regex.findall(html)
-
 
 def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
-        max_depth=-1, delay=2, proxies=None, num_retries=2, cache=None,
+        max_depth=-1, delay=3, proxies=None, num_retries=2, cache=None,
         scraper_callback=None):
 
     #: Initialze a crawl queue with a seed url to start the crawl from
@@ -55,27 +20,23 @@ def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
     #: keep track of seen urls
     seen = {}
 
-    #: Keep track of domains and their associated
-    #: parsers
     robots = {}
 
-   #: Initialize the downloader
+    #: Initialize the downloader
     url_downloader = download
 
     throttle = Throttle(delay)
 
-   #: start the crawl
+    #: start the crawl
     while crawl_queue:
         url = crawl_queue.pop()
 
-        #:
         #: robots.txt
-        #:
         robots_file_present = False
         if 'http' not in url:
             continue
 
-        #: Get the root url
+        #: Get the domain
         domain = '{}://{}'.format(urlparse(url).scheme, urlparse(url).netloc)
 
         #: Get the robot parser for this domain from the robots dictionary

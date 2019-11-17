@@ -1,6 +1,5 @@
 from scraper import scraper
 from link_crawler import link_crawler
-from threaded_crawler import threaded_crawler
 
 START_URL='https://www.statista.com/map/'
 
