@@ -11,6 +11,7 @@ import time
 import selenium
 import os
 from lxml.html import fromstring
+import random
 
 from link_crawler import download
 from selenium_auth import get_driver, login
@@ -42,12 +43,14 @@ def scraper(url, html):
     domain = '{}://{}'.format(urlparse(url).scheme, urlparse(url).netloc)
     if stat_links:
         stat_links = [urljoin(domain, link) for link in stat_links]
+
+        # cleanup
         stat_links = stat_links[:2]
 
         while stat_links:
             stat_url = stat_links.pop()
             if 'statistics' in stat_url:
-                print('# Creating folders and downloading files...')
+                print('# Downloading files: ', stat_url)
                 dir_path = url[url.find('map'):].split('map')[-1]
                 dir_path = dir_path.split('?')[0]
                 dir_path = 'data{}/{}'.format(dir_path, stat_url.rsplit('/',2)[1])
@@ -65,15 +68,15 @@ def scraper(url, html):
                     driver.add_cookie(ck)
                 throttle.wait(stat_url)
                 driver.get(stat_url)
-                time.sleep(1.5)
+                time.sleep(2.5)
 
                 download_btns = driver.find_elements_by_css_selector(
-                    '#statisticSidebar button.button')
+                    '#download button.button')
 
                 for btn in download_btns:
                     try:
                         btn.click()
-                        time.sleep(3)
+                        time.sleep(random.randint(2,4))
                     except selenium.common.exceptions.ElementNotInteractableException:
                         print('Unable to download file: Upgrade to corporate')
                     except selenium.common.exceptions.ElementClickInterceptedException:
@@ -84,11 +87,22 @@ def scraper(url, html):
 
                 # Extract metadata
                 tree = fromstring(driver.page_source)
-                breakpoint()
 
                 # source
+                src_keys = tree.xpath('//div[@id="source"]//dt//text()')
+                src_vals = tree.xpath('//div[@id="source"]//dd//text()')
+                src_vals = [v.strip() for v in src_vals]
+                src_metadata = jsonify(src_keys, src_vals)
 
-                metadata = jsonify([], [])
+                # info
+                info_keys = tree.xpath('//div[@id="info"]//dt//text()')
+                info_keys = [key.strip() for key in info_keys]
+                info_vals = tree.xpath('//div[@id="info"]//dd//text()')
+                info_vals = [val.strip() for val in info_vals]
+                info_metadata = jsonify(info_keys, info_vals) 
+
+                metadata = {**src_metadata, **info_metadata}
+                breakpoint()
                 meta_dir = os.path.join(dir_path, 'metadata.json')
                 with open(meta_dir, 'w') as meta_file:
                     json.dump(metadata, meta_file)
