@@ -1,18 +1,16 @@
 import re
-from urllib import robotparser
-from urllib.parse import urljoin, urlparse
 import socket
+from urllib.parse import urljoin, urlparse
 
-import requests
+from helpers import download, get_links, get_robots_parser
 from throttle import Throttle
-from helpers import download, get_robots_parser, get_links
 
 socket.setdefaulttimeout(120)
 
 
 def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
-        max_depth=-1, delay=3, proxies=None, num_retries=2, cache=None,
-        scraper_callback=None):
+                 max_depth=-1, delay=3, proxies=None, num_retries=2, cache=None,
+                 scraper_callback=None):
 
     #: Initialze a crawl queue with a seed url to start the crawl from
     crawl_queue = [start_url]
@@ -21,9 +19,6 @@ def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
     seen = {}
 
     robots = {}
-
-    #: Initialize the downloader
-    url_downloader = download
 
     throttle = Throttle(delay)
 
@@ -41,7 +36,7 @@ def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
 
         #: Get the robot parser for this domain from the robots dictionary
         robot_parser = robots.get(domain)
-        
+
         #: set a default robots url and a parser for it if there isn't one
         if not robot_parser and domain not in robots:
             robots_url = '{}/robots.txt'.format(domain)
@@ -50,7 +45,8 @@ def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
                 #: continue to crawl even if there are problems finding robots.txt
                 #: file
                 robots_file_present = True
-            # associate each domain with a corresponding parser, whether present or not
+            # associate each domain with a corresponding parser, whether 
+            # present or not
             robots[domain] = robot_parser
 
         elif domain in robots:
@@ -87,6 +83,3 @@ def link_crawler(start_url, link_regex, robots_url=None, user_agent='statista',
                         crawl_queue.append(link)
         else:
             print('Blocked by robots.txt:', url)
-
-
-

@@ -1,9 +1,14 @@
 import requests
+import os
+from dotenv import load_dotenv
 from lxml.html import fromstring
 
-LOGIN_URL ='https://www.statista.com/login/'
-LOGIN_USERNAME = 'keith.davey@parallaxgeo.com'
-LOGIN_PASSWORD = 'D3jaULYw7QKZiUxD'
+load_dotenv()
+
+LOGIN_URL = 'https://www.statista.com/login/'
+LOGIN_USERNAME = os.getenv("LOGIN_USERNAME")
+LOGIN_PASSWORD = os.getenv("LOGIN_PASSWORD")
+
 
 def parse_form(html):
     tree = fromstring(html)
@@ -12,6 +17,7 @@ def parse_form(html):
         if e.get('name'):
             data[e.get('name')] = e.get('value')
     return data
+
 
 def login(session=None):
     if session is None:
