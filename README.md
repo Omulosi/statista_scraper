@@ -1,6 +1,8 @@
  
 # Statista scrapper
 
+A python scraper for downloading from [statista](https://www.statista.com/)
+
 > Requirements
 * Chrome version 78
 
