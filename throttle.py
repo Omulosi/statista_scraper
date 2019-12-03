@@ -1,6 +1,7 @@
 import time
 from urllib.parse import urlparse
 
+
 class Throttle:
     """ Add a delay between downloads to the same domain
     """

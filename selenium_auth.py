@@ -3,14 +3,17 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import chromedriver_binary
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 CURRENT_DIR = os.getcwd()
 
-LOGIN_URL ='https://www.statista.com/login/'
-LOGIN_USERNAME = 'keith.davey@parallaxgeo.com'
-LOGIN_PASSWORD = 'D3jaULYw7QKZiUxD'
+LOGIN_URL = 'https://www.statista.com/login/'
+LOGIN_USERNAME = os.getenv('LOGIN_USERNAME')
+LOGIN_PASSWORD = os.getenv("LOGIN_PASSWORD")
+
 
 def get_driver(download_dir=None):
     if download_dir is None:
@@ -32,6 +35,7 @@ def get_driver(download_dir=None):
     # prevent bugs due to elements not loading properly in headless mode
     driver.set_window_size(1440, 900)
     return driver
+
 
 def login(driver):
     print('Logging in...')
